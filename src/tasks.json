@@ -1,0 +1,30 @@
+{
+    "tasks": [
+        {
+            "titulo": "Tarea 1",
+            "responsable": "Mark",
+            "descripcion":"Lore Imsum",
+            "prioridad":"baja"
+        },
+
+        {
+            "titulo": "Tarea 2",
+            "responsable": "Edison",
+            "descripcion":"Lore Imsum 2",
+            "prioridad":"medio"
+        },
+
+        {
+            "titulo": "Tarea 3",
+            "responsable": "Steven",
+            "descripcion":"Lore Imsum 3",
+            "prioridad":"alto"
+        },
+        {
+            "titulo": "Tarea 4",
+            "responsable": "Marcelo",
+            "descripcion":"Lore Imsum 4",
+            "prioridad":"bajo"
+        }
+    ]
+}
