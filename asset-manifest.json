@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/registro-tareas-react/static/css/main.574fd84a.chunk.css",
-    "main.js": "/registro-tareas-react/static/js/main.356f7833.chunk.js",
-    "main.js.map": "/registro-tareas-react/static/js/main.356f7833.chunk.js.map",
-    "runtime-main.js": "/registro-tareas-react/static/js/runtime-main.edb9f502.js",
-    "runtime-main.js.map": "/registro-tareas-react/static/js/runtime-main.edb9f502.js.map",
-    "static/js/2.641e2fa8.chunk.js": "/registro-tareas-react/static/js/2.641e2fa8.chunk.js",
-    "static/js/2.641e2fa8.chunk.js.map": "/registro-tareas-react/static/js/2.641e2fa8.chunk.js.map",
-    "static/js/3.85f0e2fa.chunk.js": "/registro-tareas-react/static/js/3.85f0e2fa.chunk.js",
-    "static/js/3.85f0e2fa.chunk.js.map": "/registro-tareas-react/static/js/3.85f0e2fa.chunk.js.map",
+    "main.css": "/registro-tareas-react/static/css/main.c64e8c1d.chunk.css",
+    "main.js": "/registro-tareas-react/static/js/main.e405bb0d.chunk.js",
+    "main.js.map": "/registro-tareas-react/static/js/main.e405bb0d.chunk.js.map",
+    "runtime-main.js": "/registro-tareas-react/static/js/runtime-main.23bffc37.js",
+    "runtime-main.js.map": "/registro-tareas-react/static/js/runtime-main.23bffc37.js.map",
+    "static/js/2.69ec2012.chunk.js": "/registro-tareas-react/static/js/2.69ec2012.chunk.js",
+    "static/js/2.69ec2012.chunk.js.map": "/registro-tareas-react/static/js/2.69ec2012.chunk.js.map",
+    "static/js/3.487bce3e.chunk.js": "/registro-tareas-react/static/js/3.487bce3e.chunk.js",
+    "static/js/3.487bce3e.chunk.js.map": "/registro-tareas-react/static/js/3.487bce3e.chunk.js.map",
     "index.html": "/registro-tareas-react/index.html",
-    "static/css/main.574fd84a.chunk.css.map": "/registro-tareas-react/static/css/main.574fd84a.chunk.css.map",
-    "static/js/2.641e2fa8.chunk.js.LICENSE.txt": "/registro-tareas-react/static/js/2.641e2fa8.chunk.js.LICENSE.txt",
+    "static/css/main.c64e8c1d.chunk.css.map": "/registro-tareas-react/static/css/main.c64e8c1d.chunk.css.map",
+    "static/js/2.69ec2012.chunk.js.LICENSE.txt": "/registro-tareas-react/static/js/2.69ec2012.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/registro-tareas-react/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.edb9f502.js",
-    "static/js/2.641e2fa8.chunk.js",
-    "static/css/main.574fd84a.chunk.css",
-    "static/js/main.356f7833.chunk.js"
+    "static/js/runtime-main.23bffc37.js",
+    "static/js/2.69ec2012.chunk.js",
+    "static/css/main.c64e8c1d.chunk.css",
+    "static/js/main.e405bb0d.chunk.js"
   ]
 }
