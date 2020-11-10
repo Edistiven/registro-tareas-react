@@ -4,6 +4,7 @@ import Formulario from './components/Formulario';
 import logo from './logo.svg';
 
 import {tasks} from './tasks.json';
+import ParticleComponent from "./ParticleComponent";
 
 class App extends Component {
 
@@ -57,20 +58,43 @@ class App extends Component {
       )
     })
   return (
-    <div className="App">
+
+
+      <div
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%"
+        }}
+      >
+        <ParticleComponent />
+        <div
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%"
+          }}
+        >
+          <div className="App">
           <nav className="navbar navbar-dark bg-dark">
-            <a className="text-white">
+            <h3 className="text-white">
               Tareas
-              <span className="badge badge-pill badge-light ml-2">
+              <span className="badge badge-pill badge-light ml-4">
                 {this.state.tasks.length}
 
               </span>
-            </a>
+            </h3>
           </nav>
         <div className="container">
           <div className="row mt-4">
               <div className="col-sm-4">
+               
                <Formulario onAddTask={this.handleAddTask}/>
+               
               </div>
             <div className="col card-columns"> {tasks} </div>
           </div>
@@ -79,6 +103,10 @@ class App extends Component {
 
           <img src={logo} className="App-logo" alt="logo"/>
     </div>
+        </div>
+      </div>
+ 
+    
   );
 }
 }
